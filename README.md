@@ -1,3 +1,3 @@
 ## My Clips
 
-A chrome extention to manage clips
+A chrome extention to manage brower clips

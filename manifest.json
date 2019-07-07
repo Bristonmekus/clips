@@ -1,0 +1,26 @@
+{
+    "name": "You Remember",
+    "version": "1.0",
+    "description": "A chrome extenxision to manage browser clip",
+    "permission": [
+
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": false
+    },
+    "page_action": {
+        "default_popup": "popup.html",
+        "default_icon" : {
+
+        }
+        
+    },
+    "options_page": "",
+    "icons": {
+
+    },
+    "manifest_version": 2
+}

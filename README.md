@@ -1,6 +1,6 @@
 ## My Clips
 
-A chrome extention to manage brower clips
+A chrome extention to manage items in browser clip board
 
 
 **Credit for Icons**
